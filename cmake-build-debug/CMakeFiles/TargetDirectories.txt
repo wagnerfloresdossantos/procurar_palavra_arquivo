@@ -1,0 +1,3 @@
+/home/wagner/CLionProjects/2022_1/procurar_palavra_arquivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wagner/CLionProjects/2022_1/procurar_palavra_arquivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wagner/CLionProjects/2022_1/procurar_palavra_arquivo/cmake-build-debug/CMakeFiles/procurar_palavra_arquivo.dir
